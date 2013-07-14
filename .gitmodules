@@ -1,3 +1,6 @@
 [submodule "php-restclient"]
 	path = php-restclient
 	url = https://github.com/tcdent/php-restclient
+[submodule "rest-client-php"]
+	path = rest-client-php
+	url = git@github.com:shurikk/rest-client-php.git
